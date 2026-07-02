@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-color: #42445A;
+}
+#container {
+  border: 1px solid;
+  border-radius: 25px;
+}
+h1 {
+  margin-top: 0;
+}
+#amountOfNum {
+  width: 90px;
+}
+input {
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+button {
+  padding: 15px;
+  border-radius: 15px;
+  background-color: #1DFF11;
+}
+#backup {
+  background-color: #FFFFFF;
+}
